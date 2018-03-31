@@ -1,0 +1,56 @@
+
+    
+    .box-2{
+        background-color:#1a1d22;
+        text-align:center;
+        height:250px;
+        font-size:20px;
+        width:60%;
+        margin-bottom: 5px;
+        margin-right:5px;
+        padding:10px;
+        
+        
+    }
+    
+    .box-3{
+        background-color:#1a1d22;
+           margin-top:0.1px;
+            width: 60%;
+            font-size:1.2em;
+            height: 250px;
+            text-align:center;
+            margin-bottom:6px;
+            
+            
+    }
+
+    .jumbotron{
+        background-color:#625378;
+        height:10px;
+        
+    }
+
+    .footer{
+        background-color:black;
+        width: 180%;
+        height:200px;
+    }
+
+    .footer-image{
+        display: inline-block;
+        box-sizing: border-box;
+    }
+
+    .row{
+        display:flex;
+    }
+
+    .main1-body{
+        flex:1;
+    }
+
+    .main2-body{
+        flex:1;
+    }
+
